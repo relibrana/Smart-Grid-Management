@@ -12,3 +12,7 @@ Mejorar el funcionamiento de las Smart Grids a través de la introducción de si
 * Garantizar la coordinación efectiva de entidades: Alcanzar una armonización óptima entre productores de energía, consumidores y unidades de almacenamiento en el ámbito de las Smart Grids, con el propósito de equilibrar la oferta y la demanda de energía.
 
 * Implementar estrategias para la reducción de costos operativos: Desplegar tácticas a través del MAS que posibiliten disminuir los costos asociados a la operación de las Smart Grids, contribuyendo de esta manera a la eficiencia económica de la red eléctrica.
+
+## Metodología
+* PADE: entorno de desarrollo diseñado específicamente para sistemas multiagentes. Esta plataforma ofrece un entorno sólido y adaptable que posibilita la creación, implementación y administración de agentes inteligentes distribuidos. Simplifica el diseño de sistemas complejos, permitiéndoles adaptarse de manera dinámica a condiciones ambientales cambiantes.
+* QT: se emplea en la creación de aplicaciones gráficas e interfaces de usuario (GUI).
