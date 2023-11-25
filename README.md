@@ -15,4 +15,13 @@ Mejorar el funcionamiento de las Smart Grids a través de la introducción de si
 
 ## Metodología
 * PADE: entorno de desarrollo diseñado específicamente para sistemas multiagentes. Esta plataforma ofrece un entorno sólido y adaptable que posibilita la creación, implementación y administración de agentes inteligentes distribuidos. Simplifica el diseño de sistemas complejos, permitiéndoles adaptarse de manera dinámica a condiciones ambientales cambiantes.
-* QT: se emplea en la creación de aplicaciones gráficas e interfaces de usuario (GUI).
+* Pygame: conjunto de módulos de Python compatible con diversas plataformas, concebido para la creación de videojuegos y aplicaciones multimedia. Abarca bibliotecas de gráficos y sonido específicamente diseñadas para integrarse con el lenguaje de programación Python, con el propósito de desarrollar interfaces de usuario interactivas, enfocándose principalmente en el ámbito del desarrollo de juegos.
+
+## Resultados
+
+Se logra realizar un sistema que gestiona el consumo de energía entre diversos agentes consumidores y proveeedores. De igual manera, se implementa una simulación para poder visualizar la interacción de los agentes.
+![image](https://github.com/relibrana/Smart-Grid-Management/assets/63934328/9e08fa63-15ab-4e68-9afa-0c35d39c530f)
+
+## Conclusiones
+
+## Video explicativo
